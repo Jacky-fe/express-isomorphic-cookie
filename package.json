@@ -1,0 +1,26 @@
+{
+  "name": "express-isomorphic-cookie",
+  "version": "1.0.0",
+  "description": "an implement of isomorphic-cookie in express, u can operator the cookie everywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacky-fe/express-isomorphic-cookie.git"
+  },
+  "keywords": [
+    "express-isomorphic-cookie"
+  ],
+  "author": "jacky-fe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacky-fe/express-isomorphic-cookie/issues"
+  },
+  "homepage": "https://github.com/Jacky-fe/express-isomorphic-cookie#readme",
+  "dependencies": {
+    "cookie": "^0.2.4",
+    "express-httpcontext": "^1.0.0"
+  }
+}
