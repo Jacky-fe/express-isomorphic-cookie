@@ -1,6 +1,6 @@
 {
   "name": "express-isomorphic-cookie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an implement of isomorphic-cookie in express, u can operator the cookie everywhere",
   "main": "index.js",
   "scripts": {

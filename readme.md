@@ -8,13 +8,13 @@ npm install express-isomorphic-cookie
 ## 使用
 ``` js
 // 首先添加中间件
-import express  from 'express;
+import express  from 'express';
 import  {  middleware }  from 'express-isomorphic-cookie';
 const app = express();
 app.use(middleware);
 
 // 使用cookie， load, save, remove
-import { cookie } from 'cookie';
+import { cookie } from 'express-isomorphic-cookie';
 
 let count = cookie.load('count') | 0;
 count++;
